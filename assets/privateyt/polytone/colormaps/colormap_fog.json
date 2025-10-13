@@ -1,0 +1,9 @@
+{
+  "default_color": 12638463,
+  "x_axis": "biome_id",
+  "y_axis": "biome_id",
+  "biome_id_mapper": {
+    "texture_size": 128,
+    "minecraft:desert": 0
+  }
+}

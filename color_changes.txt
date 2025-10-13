@@ -1,0 +1,106 @@
+Biomes affected by this resource pack:
+
+  Badlands, Eroded Badlands, Wooded Badlands
+    Sky: 7254527  / #6EB1FF
+    Fog: 16766899 / #FFD7B3
+
+  Desert
+    Sky: 7254527  / #6EB1FF
+    Fog: 16772817 / #FFEED1
+
+  Savanna, Savanna Plateau, Windswept Savanna
+    Sky: 7254527  / #6EB1FF
+    Fog: 15058606 / #E5C6AE
+
+  Bamboo Jungle, Jungle, Sparse Jungle
+    Sky: 9746943  / #94B9FF
+    Fog: 12777727 / #C2F8FF
+
+  Mangrove Swamp
+    Sky: 7584964  / #73BCC4
+    Fog: 11461088 / #AEE1E0
+
+  Swamp
+    Sky: 6464684  / #62A4AC
+    Fog: 11461088 / #AEE1E0
+
+  Beach, Plains, Sunflower Plains, Stony Shore
+    Sky: 7907327  / #78A7FF
+    Fog: 12638463 / #C0D8FF
+
+  Birch Forest, Flower Forest, Forest, Old Growth Birch Forest
+    Sky: 9090047  / #8AB3FF
+    Fog: 12638463 / #C0D8FF
+
+  Dark Forest
+    Sky: 8102900  / #7BA3F4
+    Fog: 12446719 / #BDEBFF
+
+  Meadow
+    Sky: 7708912  / #75A0F0
+    Fog: 12901631 / #C4DCFF
+
+  Cherry Grove
+    Sky: 7650303  / #74BBFF
+    Fog: 16763124 / #FFC8F4
+
+  Mushroom Fields
+    Sky: 10122751 / #9A75FF
+    Fog: 13943551 / #D4C2FF
+
+  Taiga, Old Growth Pine Taiga, Old Growth Spruce Taiga, Windswept Hills, Windswept Gravelly Hills, Windswept Forest
+    Sky: 9415152  / #8FA9F0
+    Fog: 13425151 / #CCD9FF
+
+  Ice Spikes, Deep Frozen Ocean, Frozen Ocean, Frozen River, Snowy Beach, Snowy Plains, Snowy Taiga
+    Sky: 10729456 / #A3B7F0
+    Fog: 14411007 / #DBE4FF
+
+  Frozen Peaks, Grove, Jagged Peaks, Snowy Slopes
+    Sky: 8360929  / #7F93E1
+    Fog: 14411007 / #DBE4FF
+
+  Stony Peaks
+    Sky: 7050977  / #6B96E1
+    Fog: 12638463 / #C0D8FF
+
+  Warm Ocean
+    Sky: 7254527  / #6EB1FF
+    Fog: 12638463 / #C0D8FF
+
+  Lukewarm Ocean, Deep Lukewarm Ocean, Ocean, Deep Ocean
+    Sky: 8103167  / #7BA4FF
+    Fog: 12638463 / #C0D8FF
+
+  Cold Ocean, Deep Cold Ocean
+    Sky: 9415152  / #8FA9F0
+    Fog: 12638463 / #C0D8FF
+
+  Deep Dark
+    Sky: 80209    / #013951
+    Fog: 1719628  / #1A3D4C
+
+  Lush Caves
+    Sky: 7907327  / #78A7FF
+    Fog: 1277045  / #137C75
+
+  Dripstone Caves
+    Sky: 7907327  / #78A7FF
+    Fog: 10387508 / #9E8034
+
+=== Credits ===
+
+This pack was inspired by:
+Vibrant Sky (now Vibrant Fog) by barce
+https://modrinth.com/resourcepack/vibrant-sky
+
+Fogulous by FusionSwarly
+https://modrinth.com/resourcepack/fogulous
+
+Cliff under a Tree (CliffTree) by Konci
+https://modrinth.com/datapack/clifftree
+
+If you liked this pack, consider subscribing to my YouTube channels:
+https://www.youtube.com/@PrivateYT-AG
+https://www.youtube.com/@PrivateYT-GG
+https://www.youtube.com/@PrivateYTDev
