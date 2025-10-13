@@ -1,2 +1,2 @@
-# privates-skies
-Stylized resourcepack to change sky and fog colors
+# Private's Skies
+A resourcepack to change sky colors in minecraft.
