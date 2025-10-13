@@ -1,0 +1,4 @@
+Todo:
+- work on version 2.0
+- add fog colormap
+- example: in deserts in 0-1000 ticks the fog is blue but from 1000-11000 ticks the fog is yellowish
