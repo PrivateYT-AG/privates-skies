@@ -1,8 +1,13 @@
 # Private's Skies
-A resource pack that changes sky colors in Minecraft.
-This resource pack adds 22 unique sky and fog colors, ranging from minor changes (like warm oceans) to complete overhauls (like mushroom fields).
+### Note: Private's Skies requires [Polytone](https://modrinth.com/mod/polytone) to work.
+A resource pack that overhauls sky and fog colors in many biomes, in a semi-realistic and fantasy style, with special fog effects for swamps and pale gardens.
+
+## Credits
+[Vibrant Fog](https://modrinth.com/resourcepack/vibrant-fog) (formerly Vibrant Sky) - The main inspiration of this pack
+
+[Fogulous](https://modrinth.com/resourcepack/fogulous) - The main inspiration for the fog effects
 
 <details>
-  <summary>Color chagnes</summary>
-  Lorem ipsum dolor sit amet
+<summary>1.21.6 Support?</summary>
+This pack works in 1.21.6 and above, but since the latest Polytone release for 1.21.6 does not support fog effects (due to rendering changes), there will be no special fog in swamps and pale gardens for now. For this reason, it's best to use this pack in Minecraft 1.21.5 and below.
 </details>
