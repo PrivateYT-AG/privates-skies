@@ -1,1 +1,4 @@
-{ "privateyt.privates_skies.description": "Biome-dependent sky colors.\nRequires Polytone" }
+{
+  "privateyt.privates_skies.description": "Biome-dependent sky colors.\nRequires Polytone",
+  "privateyt.privates_skies.hover": "This pack will not work if you\ndo not have Polytone installed."
+}

@@ -1,1 +1,4 @@
-{ "privateyt.privates_skies.description": "Warna langit tergantung bioma.\nMemerlukan Polytone." }
+{
+  "privateyt.privates_skies.description": "Warna langit tergantung biom.\nMemerlukan Polytone",
+  "privateyt.privates_skies.hover": "Pack ini tidak akan berfungsi jika\nkamu tidak menginstal Polytone."
+}
