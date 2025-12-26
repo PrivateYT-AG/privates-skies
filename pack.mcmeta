@@ -3,9 +3,21 @@
     "pack_format": 15,
     "supported_formats": {
       "min_inclusive": 15, 
-      "max_inclusive": 99
+      "max_inclusive": 127
     },
-    "description": "Biome-dependent sky colors\nRequires Polytone"
+    "description": {
+      "translate": "privateyt.privates_skies.description",
+      "fallback": "Biome-dependent sky colors.\nRequires Polytone",
+      "hover_event": {
+        "action": "show_text",
+        "value": {
+          "translate": "privateyt.privates_skies.hover",
+          "fallback": "This pack will not work if you\ndo not have Polytone installed."
+        }
+      }
+    },
+    "min_format": 15,
+    "max_format": 127
   },
   "overlays": {
     "entries": [
@@ -13,8 +25,10 @@
         "directory": "the_nether",
         "formats": {
           "min_inclusive": 15,
-          "max_inclusive": 99
-        }
+          "max_inclusive": 127
+        },
+        "min_format": 15,
+        "max_format": 127
       }
     ]
   }
