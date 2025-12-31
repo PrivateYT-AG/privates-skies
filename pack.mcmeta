@@ -23,6 +23,10 @@
     "entries": [
       {
         "directory": "1_21_11",
+        "formats": {
+          "min_inclusive": 75,
+          "max_inclusive": 127
+        },
         "min_format": 75,
         "max_format": 127
       },
