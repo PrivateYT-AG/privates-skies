@@ -22,13 +22,18 @@
   "overlays": {
     "entries": [
       {
+        "directory": "1_21_11",
+        "min_format": 75,
+        "max_format": 127
+      },
+      {
         "directory": "the_nether",
         "formats": {
           "min_inclusive": 15,
-          "max_inclusive": 127
+          "max_inclusive": 69
         },
         "min_format": 15,
-        "max_format": 127
+        "max_format": 69
       }
     ]
   }
