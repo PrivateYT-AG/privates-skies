@@ -1,0 +1,9 @@
+{
+  "targets": [
+    "minecraft:cold_ocean",
+    "minecraft:deep_cold_ocean"
+  ],
+  "attributes_modifiers": {
+    "minecraft:visual/sky_color": "#8fa9f0"
+  }
+}

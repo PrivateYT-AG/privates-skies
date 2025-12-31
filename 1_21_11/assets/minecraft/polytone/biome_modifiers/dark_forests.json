@@ -1,0 +1,6 @@
+{
+  "targets": ["minecraft:dark_forest"],
+  "attributes_modifiers": {
+    "minecraft:visual/sky_color": "#7ba3f4"
+  }
+}

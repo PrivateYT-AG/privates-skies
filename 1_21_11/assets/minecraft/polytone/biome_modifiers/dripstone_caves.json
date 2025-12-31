@@ -1,0 +1,6 @@
+{
+  "targets": ["minecraft:dripstone_caves"],
+  "attributes_modifiers": {
+    "minecraft:visual/fog_color": "#9e8034"
+  }
+}

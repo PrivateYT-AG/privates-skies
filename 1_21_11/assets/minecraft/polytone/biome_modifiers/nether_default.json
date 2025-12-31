@@ -1,0 +1,9 @@
+{
+  "targets": [
+    "minecraft:crimson_forest",
+    "minecraft:nether_wastes"
+  ],
+  "attributes_modifiers": {
+    "minecraft:visual/sky_color": "#570f0f"
+  }
+}

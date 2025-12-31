@@ -1,0 +1,6 @@
+{
+  "targets": ["minecraft:lush_caves"],
+  "attributes_modifiers": {
+    "minecraft:visual/fog_color": "#137c75"
+  }
+}

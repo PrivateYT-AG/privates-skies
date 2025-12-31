@@ -1,0 +1,7 @@
+{
+  "targets": ["minecraft:cherry_grove"],
+  "attributes_modifiers": {
+    "minecraft:visual/sky_color": "#74bbff",
+    "minecraft:visual/fog_color": "#ffc8f4"
+  }
+}

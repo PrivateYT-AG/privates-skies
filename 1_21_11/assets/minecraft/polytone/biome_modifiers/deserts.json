@@ -1,0 +1,6 @@
+{
+  "targets": ["minecraft:desert"],
+  "attributes_modifiers": {
+    "minecraft:visual/fog_color": "#ffeed1"
+  }
+}

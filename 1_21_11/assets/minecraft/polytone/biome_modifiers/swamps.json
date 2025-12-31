@@ -1,0 +1,7 @@
+{
+  "targets": ["minecraft:swamp"],
+  "attributes_modifiers": {
+    "minecraft:visual/sky_color": "#62a4ac",
+    "minecraft:visual/fog_color": "#aee1e0"
+  }
+}
