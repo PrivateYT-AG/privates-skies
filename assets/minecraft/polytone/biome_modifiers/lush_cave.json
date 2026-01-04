@@ -1,5 +1,7 @@
 {
-  "sky_color": 7907327,
   "fog_color": 1277045,
-  "targets": ["minecraft:lush_caves"]
+  "targets": ["minecraft:lush_caves"],
+  "attributes_modifiers": {
+    "minecraft:visual/fog_color": "#137c75"
+  }
 }

@@ -6,5 +6,9 @@
     "minecraft:grove", 
     "minecraft:jagged_peaks", 
     "minecraft:snowy_slopes"
-  ]
+  ],
+  "attributes_modifiers": {
+    "minecraft:visual/sky_color": "#7f93e1",
+    "minecraft:visual/fog_color": "#dbe4ff"
+  }
 }

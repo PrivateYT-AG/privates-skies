@@ -9,5 +9,9 @@
     "minecraft:snowy_beach", 
     "minecraft:snowy_plains", 
     "minecraft:snowy_taiga"
-  ]
+  ],
+  "attributes_modifiers": {
+    "minecraft:visual/sky_color": "#a3b7f0",
+    "minecraft:visual/fog_color": "#dbe4ff"
+  }
 }
