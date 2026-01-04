@@ -1,7 +1,0 @@
-{
-  "targets": ["minecraft:mushroom_fields"],
-  "attributes_modifiers": {
-    "minecraft:visual/sky_color": "#9a75ff",
-    "minecraft:visual/fog_color": "#d4c2ff"
-  }
-}

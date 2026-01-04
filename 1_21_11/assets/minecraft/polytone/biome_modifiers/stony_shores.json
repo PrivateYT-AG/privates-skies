@@ -1,6 +1,0 @@
-{
-  "targets": ["minecraft:stony_shore"],
-  "attributes_modifiers": {
-    "minecraft:visual/sky_color": "#78a7ff"
-  }
-}

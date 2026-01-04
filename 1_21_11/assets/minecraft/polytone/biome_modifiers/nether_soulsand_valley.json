@@ -1,6 +1,0 @@
-{
-  "targets": ["minecraft:soul_sand_valley"],
-  "attributes_modifiers": {
-    "minecraft:visual/sky_color": "#27625f"
-  }
-}

@@ -1,7 +1,0 @@
-{
-  "targets": ["minecraft:mangrove_swamp"],
-  "attributes_modifiers": {
-    "minecraft:visual/sky_color": "#73bcc4",
-    "minecraft:visual/fog_color": "#aee1e0"
-  }
-}

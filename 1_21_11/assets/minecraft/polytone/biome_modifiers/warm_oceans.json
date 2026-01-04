@@ -1,6 +1,0 @@
-{
-  "targets": ["minecraft:warm_ocean"],
-  "attributes_modifiers": {
-    "minecraft:visual/sky_color": "#6eb1ff"
-  }
-}
