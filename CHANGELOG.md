@@ -1,5 +1,13 @@
 # Changelog
 
+## [2.0-beta1] - 2026-01-10
+Fog effects are back for Minecraft 1.21.11, the biomes affected are:
+- Pale gardens
+- Swamps and mangrove swamps
+- Cave biomes (deep dark, dripstone caves, lush caves)
+
+These fog effects are *very* subtle if you don't use a high render distance. At 32 chunks, it provides a slight difference (pale garden is way more noticeable). The fog also gets heavier when it's raining. Alformentioned changes are not present in versions below 1.21.11.
+
 ## [2.0-alpha3] - 2026-01-04
 This pack is still in alpha, so if you experience bugs or issues please report them on [GitHub](https://github.com/PrivateYT-AG/privates-skies/issues).
 
@@ -133,4 +141,5 @@ Changed sky colors for:
 - Old Growth Spruce Taiga
 - Snowy Plains
 - Snowy Taiga
+
 - Ice Spikes
