@@ -5,6 +5,8 @@
   "attributes_modifiers": {
     "minecraft:visual/sky_color": "#013951",
     "minecraft:visual/fog_color": "#1a3d4c",
-    "minecraft:visual/cloud_color": "#cc79a7bb"
+    "minecraft:visual/cloud_color": "#cc79a7bb",
+    "minecraft:visual/fog_start_distance": -64,
+    "minecraft:visual/fog_end_distance": 448
   }
 }
