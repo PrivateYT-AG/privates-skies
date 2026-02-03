@@ -1,5 +1,10 @@
 # Changelog
 
+## [2.0-beta2] - 2026-02-03
+- Change fog end distance of pale gardens to 448
+- Change fog end distance of swamps and mangrove swamps to 768
+- Set fog end distance of jungles (all variants) and dark forests to 896 
+
 ## [2.0-beta1] - 2026-01-10
 Fog effects are back for Minecraft 1.21.11, the biomes affected are:
 - Pale gardens

@@ -2,6 +2,6 @@
   "targets": ["minecraft:pale_garden"],
   "attributes_modifiers": {
     "minecraft:visual/fog_start_distance": -64,
-    "minecraft:visual/fog_end_distance": 512
+    "minecraft:visual/fog_end_distance": 448
   }
 }
