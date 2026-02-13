@@ -7,14 +7,22 @@
     },
     "description": {
       "translate": "privateyt.privates_skies.description",
-      "fallback": "Biome-dependent sky colors.\nRequires Polytone",
-      "hover_event": {
-        "action": "show_text",
-        "value": {
-          "translate": "privateyt.privates_skies.hover",
-          "fallback": "This pack will not work if you\ndo not have Polytone installed."
+      "fallback": "Biome-dependent sky colors.\n",
+      "color": "#827898",
+      "extra": [
+        {
+          "translate": "privateyt.privates_skies.description.require",
+          "fallback": "Requires Polytone",
+          "color": "#b2665d",
+          "hover_event": {
+            "action": "show_text",
+            "value": {
+              "translate": "privateyt.privates_skies.hover",
+              "fallback": "This pack will not work if you\ndo not have Polytone installed."
+            }
+          }
         }
-      }
+      ]
     },
     "min_format": 15,
     "max_format": 127
