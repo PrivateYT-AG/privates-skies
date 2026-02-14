@@ -1,5 +1,35 @@
 # Changelog
 
+## [2.0] - 2026-02-14
+This is the full release of version **2.0**, which adds support for 1.21.11, new cloud colors, fog effects for 1.21.11, and more.
+
+### Additions
+New cloud color for these biomes:
+- cherry groves
+- deep dark
+- deserts
+- jungles
+- swamps and mangrove swamps
+- badlands
+- mushroom fields
+- savannas
+
+Special fog effects for 1.21.11, such as in these biomes:
+- Pale garden, where it's foggier than before
+- Swamps and jungles have a more subtle fog effect, with swamps being slightly thicker
+
+The alformentioned changes do not apply to versions below 1.21.11.
+
+### Changes and fixes
+Changes in this full release:
+- New resource pack icon, which is a mushroom fields landscape
+- Resource pack description now has a slight grayish purple color
+- The "Requires Polytone" sentence now has a reddish gray color
+- Added new translations for the "Requires Polytone" section
+
+Fixes from the previous beta (2.0-beta2):
+- Fixed nether sky colors not working on 1.21.11 and above
+
 ## [2.0-beta2] - 2026-02-03
 - Change fog end distance of pale gardens to 448
 - Change fog end distance of swamps and mangrove swamps to 768
