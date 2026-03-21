@@ -17,7 +17,7 @@
           "hover_event": {
             "action": "show_text",
             "value": {
-              "translate": "privateyt.privates_skies.hover",
+              "translate": "privateyt.privates_skies.tooltip",
               "fallback": "This pack will not work if you\ndo not have Polytone installed."
             }
           }
