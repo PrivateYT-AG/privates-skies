@@ -1,5 +1,8 @@
 # Changelog
 
+## [2.0.1] - 2026-07-02
+- Changed sulfur caves fog distance to match other cave biomes
+
 ## [2.0] - 2026-02-14
 This is the full release of version **2.0**, which adds support for 1.21.11, new cloud colors, fog effects for 1.21.11, and more.
 
